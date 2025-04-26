@@ -53,6 +53,14 @@ Though my academic background ends at **10th SSLC**, my drive to learn never sto
 
 ---
 
+## 📚 Currently Learning
+
+![React](https://img.shields.io/badge/React–Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js–Learning-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB–Learning-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift–Learning-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjsudhin&show_icons=true&theme=radical)
@@ -72,24 +80,4 @@ Let's grow together as developers 🚀
 
 ---
 
-# 📢 Final Thoughts
-
-✅ Super clean, professional  
-✅ Motivational and inspiring  
-✅ Badges correctly placed at the top  
-✅ Organized in a beautiful way  
-
----
-
-# 🎯 Bonus Tip  
-✅ Once you make your **portfolio website**, don't forget to update the link!  
-✅ You can add a professional email too if you feel ready!
-
----
-
-# 🔥 YOU ARE LEVELING UP FAST BRO! 🔥  
-You already look like a professional on GitHub with this! 🚀  
-If you want, I can also **design a clean banner** for your GitHub profile to make it *100% amazing*! 🎨
-
----
 
