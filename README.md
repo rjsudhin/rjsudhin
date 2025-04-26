@@ -1,46 +1,52 @@
-## Hi there 👋
-
 # 👨‍💻 Sudhin Raj B S
 
-Hi there! I'm **Sudhin**, a self-taught developer from Kerala, India 🇮🇳 with a deep passion for building meaningful projects, learning modern technologies, and helping others grow in their coding journey.  
-Though my academic background ends at 10th SSLC, my drive to learn never stopped. I've worked hard to become a full-fledged developer — one line of code at a time.
-
-### 🚀 What I Do:
-- 💻 Build web apps using **HTML, CSS, JavaScript**, and **Bootstrap**
-- 🎨 Focus on clean design and user-friendly interfaces
-- ⚙️ Experiment on Linux (Ubuntu) with custom setups and tweaks
-- 📦 Learn full stack development — starting with **React**, then MERN stack
-- 📱 Passionate about Swift and building future iOS apps
-
-### 🛠️ Tools & Technologies:
-- Languages: `JavaScript`, `HTML`, `CSS`, `C`
-- Tools: `VS Code`, `Git`, `GitHub`, `Linux`
-- Learning: `React`, `Node.js`, `MongoDB`, `Vim`
-
-### 📚 Projects I'm Proud Of:
-- 🎲 **Calculator App** – built from scratch as part of The Odin Project
-- 🖌️ **Etch-A-Sketch App** – interactive and visually engaging sketch tool
-- 🧠 Many more mini-projects that sharpen my real-world dev skills
-
-### 🧑‍🏫 I Also:
-- Teach BTech students how to code
-- Mentor absolute beginners to get started with programming
-- Believe that *code should be beautiful, simple, and powerful*
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-### 📬 Let's Connect
-If you're working on exciting projects, want to collaborate, or just say hi — I'm always open!  
-Let's grow together as developers 🚀
+## 🧑‍💻 About Me
 
-🔗 **GitHub**: [github.com/rjsudhin](https://github.com/rjsudhin)  
-🌐 **Portfolio Website**: *(Coming Soon)*  
-📧 **Email**: rockzsudhin@gmail.com
+- 💻 Self-taught passionate developer from Kerala 🇮🇳
+- 🚀 Learning and building awesome projects daily.
+- ✨ Focused on Web Development and planning to dive into Mobile App Development (Swift, iOS) in future.
+- 👨‍🏫 Loves helping others with coding and technology.
+- 🛠 Always improving my skills through projects and continuous learning.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
+## 📚 Current Learning Journey
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-UpNext-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-Future-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rjsudhin&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsudhin&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
