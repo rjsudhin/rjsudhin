@@ -76,7 +76,6 @@ Let's grow together as developers 🚀
 
 🔗 **GitHub**: [github.com/rjsudhin](https://github.com/rjsudhin)  
 🌐 **Portfolio Website**: *(Coming Soon)*  
-📧 **Email**: *(Add your email if you're ready)*
 
 ---
 
