@@ -10,7 +10,7 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 Hi there! I'm **Sudhin**, a self-taught developer from Kerala, India 🇮🇳 with a deep passion for building meaningful projects, learning modern technologies, and helping others grow in their coding journey.  
-Though my academic background ends at **10th SSLC**, my drive to learn never stopped. I've worked hard to become a full-fledged developer — one line of code at a time.
+My drive to learn never stopped. I've worked hard to become a full-fledged developer — one line of code at a time.
 
 ---
 
